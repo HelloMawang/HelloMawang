@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 7d39ac0fa4131e54eb475be41031c7eb
+timeCreated: 1448607847
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: neck
+    21300004: body
+    21300006: right_arm_lower
+    21300008: right_arm_upper
+    21300010: elbow
+    21300012: right_hand_back
+    21300014: right_hand_palm
+    21300016: pelvis
+    21300018: left_arm_lower
+    21300020: left_arm_upper
+    21300022: left_hand_palm
+    21300024: left_hand_back
+    21300026: right_leg_upper
+    21300028: left_leg_upper
+    21300030: kneecap
+    21300032: right_leg_lower
+    21300034: left_leg_lower
+    21300036: right_foot
+    21300038: left_foot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 455
+        width: 102
+        height: 124
+      alignment: 9
+      pivot: {x: .634395838, y: .0323973633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: neck
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 547
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 404
+        width: 86
+        height: 136
+      alignment: 9
+      pivot: {x: .59477818, y: .461860657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm_lower
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 363
+        width: 29
+        height: 63
+      alignment: 9
+      pivot: {x: .49361223, y: .852853954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm_upper
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 364
+        width: 38
+        height: 78
+      alignment: 9
+      pivot: {x: .461000353, y: .913245976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: elbow
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 330
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_hand_back
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 304
+        width: 33
+        height: 50
+      alignment: 9
+      pivot: {x: .606657982, y: .855676889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_hand_palm
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 242
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: .736706078, y: .866791368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pelvis
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 338
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm_lower
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 355
+        width: 31
+        height: 64
+      alignment: 9
+      pivot: {x: .446217686, y: .847340584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm_upper
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 360
+        width: 39
+        height: 77
+      alignment: 9
+      pivot: {x: .457250357, y: .928236127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_hand_palm
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 295
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: .363787919, y: .870496452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_hand_back
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 32
+        height: 49
+      alignment: 9
+      pivot: {x: .332118511, y: .866716027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg_upper
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 221
+        width: 51
+        height: 103
+      alignment: 9
+      pivot: {x: .507264674, y: .935243487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg_upper
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 221
+        width: 51
+        height: 103
+      alignment: 9
+      pivot: {x: .529058695, y: .901071489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kneecap
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 185
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg_lower
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 31
+        height: 92
+      alignment: 9
+      pivot: {x: .523903131, y: .948181152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg_lower
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84
+        width: 33
+        height: 92
+      alignment: 9
+      pivot: {x: .544908464, y: .940971375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_foot
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 15
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: .385322452, y: .83536303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_foot
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 15
+        width: 62
+        height: 58
+      alignment: 9
+      pivot: {x: .371521235, y: .838556945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
